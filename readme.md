@@ -17,7 +17,8 @@ check it on my wordpress server:
 
 http://54.189.31.221/
 
+## Bootstrap:
+![bootstrab](img1.png)
 
-![bootstrab](img1.jpg)
-
-![bootstrab](img2.jpg)
+## WordPress:
+![wprdpress](img2.png)
