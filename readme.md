@@ -16,3 +16,8 @@ http://18.196.30.95/mytemplates
 check it on my wordpress server:
 
 http://54.189.31.221/
+
+
+![bootstrab](img1.jpg)
+
+![bootstrab](img2.jpg)
